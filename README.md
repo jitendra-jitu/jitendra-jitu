@@ -23,7 +23,7 @@
 
 - 📫 How to reach me **gudelajitendra987@gmail.com**
 
-- <span >
+-  <span >
     <img src="https://github.com/user-attachments/assets/65b78b02-b113-457f-b6ab-1a785766c495" alt="LinkedIn Logo" width="15" height="15">  Connect with me - https://www.linkedin.com/in/jitendra-gudela-019b15251</img>
 </span> 
 
