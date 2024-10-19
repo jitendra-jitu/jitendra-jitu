@@ -5,15 +5,9 @@
 
 
 
-## Play the Chrome Dino Game 🦖🚀
-
-![Watch the Chrome Dino Game](https://blog.logrocket.com/wp-content/uploads/2020/08/Dino_non-birthday_version.gif)
-
-
-
-
----
-
+<p align="center">
+    <img src="https://blog.logrocket.com/wp-content/uploads/2020/08/Dino_non-birthday_version.gif" alt="Watch the Chrome Dino Game" />
+</p>
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendra-jitu&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra-jitu" /> </p>
