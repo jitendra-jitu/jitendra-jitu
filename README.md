@@ -2,29 +2,11 @@
 
 ## Play the Chrome Dino Game 🦖🚀
 
-You can play the **Chrome Dino Game** below:  
+You can play the **Chrome Dino Game** directly by opening the `index.html` file in your browser:
 
-### Chrome Dino Game
+### Instructions:
 
-<iframe src="https://jitendra-jitu.github.io/" style="width:600px; height:150px; border: none;"></iframe>
-
----
-
-## Connect with Me 🤝
-
-[![LinkedIn](./assets/linkedin-logo.png)](https://www.linkedin.com/in/jitendra-gudela-019b15251/)
-
----
-
-## Let’s Collaborate 👯
-
-I'm looking to collaborate on **cool projects**. Feel free to **reach out**!
-
----
-
-## How to Run Locally:
-
-1. Clone the repository:  
+1. Clone this repository:
    ```bash
    git clone https://github.com/jitendra-jitu/jitendra-jitu.git
 ```
