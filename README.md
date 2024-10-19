@@ -1,5 +1,13 @@
+
+
 <h1 align="center">Hi 👋, I'm Gudela Jitendra</h1>
+
+
 <h3 align="center">A passionate FullStack developer from India</h3>
+
+![alt text](https://anayacybertech.com/wp-content/uploads/2018/07/cstmswft-1170x341.jpg)
+
+
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jitendra-jitu&label=Profile%20views&color=0e75b6&style=flat" alt="jitendra-jitu" /> </p>
 
@@ -7,8 +15,19 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
+
+
+- 🔭 I’m currently working on **AI-POWERED Job portal**
+
+- 💬 Ask me about more on **Springboot,React**
+
+- 📫 How to reach me **gudelajitendra987@gmail.com**
+
+- ![LinkedIn Logo](images/linkedin-logo.png)linkedin [https://www.linkedin.com/in/jitendra-gudela-019b15251/](https://www.linkedin.com/in/jitendra-gudela-019b15251/)
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
+<a href="https://linkedin.com/in/https://x.com/jitendr70901231" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://x.com/jitendr70901231" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
