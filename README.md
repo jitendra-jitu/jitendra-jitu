@@ -1,9 +1,12 @@
 # Welcome to My GitHub Profile! 👋
 
-## Chrome Dino Game 🦖🚀
+## Play the Chrome Dino Game 🦖🚀
 
-Try the **Chrome Dino Game**:  
-[Play Chrome Dino Game](https://jitendra-jitu.github.io/)  
+You can play the **Chrome Dino Game** below:  
+
+### Chrome Dino Game
+
+<iframe src="https://jitendra-jitu.github.io/" style="width:600px; height:150px; border: none;"></iframe>
 
 ---
 
@@ -24,5 +27,4 @@ I'm looking to collaborate on **cool projects**. Feel free to **reach out**!
 1. Clone the repository:  
    ```bash
    git clone https://github.com/jitendra-jitu/jitendra-jitu.git
-
 ```
