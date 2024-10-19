@@ -1,7 +1,9 @@
 
-# Welcome to My GitHub Profile! 
-<h1 align="center">Hi 👋, I'm Gudela Jitendra</h1>
-<h3 align="center">A passionate FullStack developer from India</h3>
+<h1 align="center"># Welcome to My GitHub Profile!</h1> 
+
+Hi 👋, I'm Gudela Jitendra
+
+A passionate FullStack developer from India
 
 
 
