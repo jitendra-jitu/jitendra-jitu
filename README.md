@@ -8,7 +8,7 @@ Try the **Dragon Jump Game**:
 ---
 
 ### How to Play:
-- **Press any key** to make the dragon jump.
+- **Press backspace key** to make the dragon jump or to start the Game.
 - Avoid obstacles to stay alive!
 - **Game Over** if you hit an obstacle.
 
