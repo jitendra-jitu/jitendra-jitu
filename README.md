@@ -30,7 +30,8 @@ A passionate FullStack developer from India
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=jitendra-jitu&show_icons=true&locale=en" alt="jitendra-jitu" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=jitendra-jitu&" alt="jitendra-jitu" /></p>
-I’m always open to collaboration and contributions on my projects
+
+I'm always open to collaboration and contributions on my projects, especially if they genuinely enhance the project's quality and impact....
 
 
 
